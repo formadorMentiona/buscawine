@@ -1,2 +1,2 @@
 # buscawine
-Ejercicio codificacion buscamians
+Ejercicio codificacion buscaminas
